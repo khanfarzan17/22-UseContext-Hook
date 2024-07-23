@@ -1,0 +1,18 @@
+/* Import Roboto font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* Apply Roboto font to all elements */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Or if you prefer, you can specify it for specific elements */
+.heading {
+  font-family: 'Roboto', sans-serif;
+}
+
+.card-text {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* And so on for other elements */
